@@ -22,7 +22,7 @@ To begin using the ID Blinding Tool, follow these steps:
 1. **Download**: Get the latest .exe file [here](https://github.com/AlexHenriques/IDBlindingTool/releases).
 2. **Installation**: Simply, run the downloaded file (ID_Blinding_Tool.exe) and follow the installation steps.
 3. **Function Selection**: Select the desired function, such as Randomly Assign IDs to Labels or Rename Files.
-4. **Guidance**: Find help within the tool if needed~.
+4. **Guidance**: Find help within the tool if needed.
 
 **macOS**
 
